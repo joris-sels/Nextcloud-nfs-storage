@@ -51,7 +51,7 @@ Now check if the installation was succesfull:
 ` docker-compose --version`
 
 
-### Portainer install (opcional)
+### Portainer install (optional)
 Additionally you can install **Portainer**  to easily manage your containers and stacks.                                                           
                                                                                                                                                    
 `$ docker volume create portainer_data`                                                                                                            
