@@ -1,7 +1,7 @@
 
 # Welcome to my Docker-Nextcloud-NFS-Storage wiki! 👋
 
-###Before we start I want to say that I have absolutely nothing to do with the Nextcloud team or devs. Netxcloud is in no-way what so ever developed by me. This tutorial just shows you how to link and NFS-share to your Nextcloud docker container. All the credits go to the Nextcloud team for the platform itself!
+### Before we start I want to say that I have absolutely nothing to do with the Nextcloud team or devs. Netxcloud is in no-way what so ever developed by me. This tutorial just shows you how to link and NFS-share to your Nextcloud docker container. All the credits go to the Nextcloud team for the platform itself!
 
 ##  What do you need? 
 
