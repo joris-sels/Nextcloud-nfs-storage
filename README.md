@@ -88,7 +88,7 @@ ctrl + s and it is saved!
 
 Now at last it is time to run your docker container. You can do this by the following command:
 
-$ sudo docker-compose up -d
+`$ sudo docker-compose up -d`
 
 🎉 **Congrats!!!  Now you should be able to look on Nextcloud and see your external storage as below. **🎉
 
